@@ -19,5 +19,5 @@ return (num1.modulo(num2))
 end
 
 def square_root(num)
-return (Math.sqrt)
+return (Math.sqrt(num))
 end
